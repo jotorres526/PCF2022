@@ -1,0 +1,11 @@
+Uppaal
+    - Editor, simulador, verificador
+    - Para correr em paralelo temos de criar 2 templates
+    - Declaration -> clocks e canais (chan) a usar
+    - Podemos ter automatos parameterizados
+    - Broadcasting: broadcast chan channelname
+    - Sincronização urgente: 
+        - As guardas só dão permissão ao sistema para saltar para o outro estado
+        - Caso geral podemos meter um invariante x<=10 para uma guarda x>=10 que o sistema é obrigado a saltar, mas nem sempre funciona
+            - Ver caderno
+    - Localizações committed

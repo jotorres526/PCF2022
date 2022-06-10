@@ -1,0 +1,18 @@
+exemplos: 
+  - 0,1,pi,e,...
+  - pi . x1, 2 . x2
+  - pi . x1 + 2 . x2
+  
+função sigma: aceder à mem do computador
+  - \sigma: X -> R
+
+para avaliar um termo linear precisamos de um par (t, sigma)
+
+fazer linguagem
+  - começar por definir sintaxe
+    - o que sao variaveis...
+
+dois termos sao equivalentes se todas as memorias/ambientes sao iguais
+
+while-program
+  - seq tem uma gralha, o sigma do lado direito da permissa é sigma'
